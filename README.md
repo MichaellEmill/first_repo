@@ -1,4 +1,3 @@
 # first_repo
 For training
-
-##project notes
+## project notes
